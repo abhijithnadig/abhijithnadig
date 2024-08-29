@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijithnadig
-- 👀 I’m interested in app devlopment
-- 🌱 I’m currently learning app dev and web dev
-- 💞️ I’m looking to collaborate on any app building project or even website
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently pursuing an Ms In CS at UC Riverside
+- 💞️ I’m looking to collaborate on any web dev or AIML Projects
 - 📫 How to reach me abhijith.nadig@gmail.com
 
 <!---
